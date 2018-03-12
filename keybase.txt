@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mjg2
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mjgtwo.github.io
+  * I am mjg2 (https://keybase.io/mjg2) on keybase.
+  * I have a public key ASC7ZLMeD-yAuD7W7Jz6eH564NtIpuvGt9lgIHCHZmcjIgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bb64b31e0fec80b83ed6ec9cfa787e7ae0db48a6ebc6b7d960207087666723220a",
+      "host": "keybase.io",
+      "kid": "0120bb64b31e0fec80b83ed6ec9cfa787e7ae0db48a6ebc6b7d960207087666723220a",
+      "uid": "6d5253253d5779ca62f01d6f77d8c119",
+      "username": "mjg2"
+    },
+    "service": {
+      "hostname": "mjgtwo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.23"
+  },
+  "ctime": 1520895163,
+  "expire_in": 504576000,
+  "merkle_root": {
+    "ctime": 1520895132,
+    "hash": "d5b5f7241c0e6f3133c7ec391078d9ed16386f5097aa958f0978737cf67cfaa97dbd63d18c223d81ecde8240a0482b9deffdb8153095ff0e77f6142577d59a0f",
+    "seqno": 2227000
+  },
+  "prev": "e851ee6bc712d46621c847f8c4163ae93b25f3cec45a7daf7ae54d3e3bccb41f",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu2SzHg/sgLg+1uyc+nh+euDbSKbrxrfZYCBwh2ZnIyIKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmI2NGIzMWUwZmVjODBiODNlZDZlYzljZmE3ODdlN2FlMGRiNDhhNmViYzZiN2Q5NjAyMDcwODc2NjY3MjMyMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmI2NGIzMWUwZmVjODBiODNlZDZlYzljZmE3ODdlN2FlMGRiNDhhNmViYzZiN2Q5NjAyMDcwODc2NjY3MjMyMjBhIiwidWlkIjoiNmQ1MjUzMjUzZDU3NzljYTYyZjAxZDZmNzdkOGMxMTkiLCJ1c2VybmFtZSI6Im1qZzIifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1qZ3R3by5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTUyMDg5NTE2MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwODk1MTMyLCJoYXNoIjoiZDViNWY3MjQxYzBlNmYzMTMzYzdlYzM5MTA3OGQ5ZWQxNjM4NmY1MDk3YWE5NThmMDk3ODczN2NmNjdjZmFhOTdkYmQ2M2QxOGMyMjNkODFlY2RlODI0MGEwNDgyYjlkZWZmZGI4MTUzMDk1ZmYwZTc3ZjYxNDI1NzdkNTlhMGYiLCJzZXFubyI6MjIyNzAwMH0sInByZXYiOiJlODUxZWU2YmM3MTJkNDY2MjFjODQ3ZjhjNDE2M2FlOTNiMjVmM2NlYzQ1YTdkYWY3YWU1NGQzZTNiY2NiNDFmIiwic2Vxbm8iOjE5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIyyfHHFbvZ/Rt06qKmFCH68/m1KTxFvzcy3Og+k5CLeHLxF3Qj/pQvn0qaUR0jVORoqGTZBUI7jQXIEAm7r4QKoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD02/UVRUIKfTPjVxw7c0fqFpikg6vSD4zNP2tD/neIBKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mjg2
+
+==================================================================
