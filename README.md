@@ -1,1 +1,0 @@
-# mjgtwo.github.io
